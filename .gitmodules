@@ -1,3 +1,4 @@
 [submodule "content-for-all-partners"]
 	path = content-for-all-partners
 	url = https://github.com/jpadams/content-for-all-partners
+	branch = master
